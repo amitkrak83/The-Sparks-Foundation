@@ -12,3 +12,5 @@ This is the first task of my internship as Data Science & Business Analytics int
 >**Data** can be found at **http://bit.ly/w-data**
 
 ### ***Problem*** :- What will be predicted score if a student studies for 9.25 hrs/ day?
+
+## **Youtube Link** :- https://youtu.be/ZwcZzWHmDgU
